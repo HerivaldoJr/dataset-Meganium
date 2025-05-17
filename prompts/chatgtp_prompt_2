@@ -1,0 +1,28 @@
+Atue como um especialista em análise de mercado internacional para e-commerce. Com base nos dados de vendas da GamesShop, realize a seguinte análise:
+
+1. Mapeamento Geográfico de Preferências:
+   - Liste os 3 produtos mais vendidos em cada país/região
+   - Calcule a participação de mercado (%) de cada produto por região
+   - Identifique variações sazonais nas preferências por país
+
+2. Análise Comparativa:
+   - Crie uma matriz comparando a popularidade dos mesmos produtos em diferentes países
+   - Destaque produtos com desempenho consistentemente bom em todas as regiões
+   - Identifique produtos com apelo regional específico
+
+3. Fatores de Influência:
+   - Correlacione as preferências com: 
+     * Faixa etária predominante no país
+     * Eventos culturais/locais relevantes
+     * Políticas governamentais (ex.: taxação de imports)
+
+4. Visualização de Dados:
+   - Sugira um mapa de calor geográfico mostrando a distribuição por produto
+   - Recomende um gráfico de radar para comparar perfis de preferência entre países
+
+5. Recomendações Comerciais:
+   - Proponha ajustes no mix de produtos por região
+   - Sugira campanhas de marketing regionalizadas
+   - Indique oportunidades para expansão de produtos similares
+
+Formate a saída em markdown com tabelas comparativas e destaques para diferenças significativas. Inclua uma seção de 'Insights Surpreendentes' com padrões não óbvios encontrados.
